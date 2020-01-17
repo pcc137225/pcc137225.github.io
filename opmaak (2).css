@@ -1,0 +1,12 @@
+body{ background-color:#F0FFFF
+
+}
+h1, p { front:family "arial", "helvatica", "sans serif";
+text-indent:10px;  
+}
+Li { display:inline;margin-left:20px; 
+}
+a { color:#000000; text-decoration:none;
+}
+a:hover { color:#ff8800; 
+}
